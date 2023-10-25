@@ -27,6 +27,8 @@ The folder "Figs_8_9" provides the MATLAB source codes of the Figures 8 and 9, w
 
 "Secondary_path_k" denotes the acoustic paths between the kth secondary loudspeaker and all error microphones.
 
+%------------------------------------------------------------------------------------------------%
+
 P.s. Our works on "Distributed Active Noise Control System Based on the Augmented Diffusion Strategy" include:
 
 (1) Tianyou Li, Siyuan Lian, Sipei Zhao, Jing Lu and Ian S. Burnett, "Distributed Active Noise Control Based on an Augmented Diffusion FxLMS Algorithm," IEEE/ACM Trans. Audio, Speech, Lang. Process., vol. 31, pp. 1449-1463, 2023.
