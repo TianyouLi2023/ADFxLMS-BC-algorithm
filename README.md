@@ -3,6 +3,9 @@ This website is supplementary material for the article "Tianyou Li, Li Rao, Sipe
 
 (c) 2023 by Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett
 
+The authors' email addresses are: 
+Tianyou Li: tianyou.li@smail.nju.edu.cn; Li Rao: li.rao@smail.nju.edu.cn; Sipei Zhao: sipei.zhao@uts.edu.au
+Jing Lu: lujing@nju.edu.cn; Ian S. Burnett: ian.burnett2@rmit.edu.au
 %------------------------------------------------------------------------------------------------%
 
 The folder "Figs_5_6" provides the MATLAB source codes of the Figures 5 and 6, which corresponds to the free-field simulation of the above article.
