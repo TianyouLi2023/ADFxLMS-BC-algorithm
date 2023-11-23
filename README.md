@@ -36,3 +36,5 @@ P.s. Our works on "Distributed Active Noise Control System Based on the Augmente
 (2) Tianyou Li, Sipei Zhao, Kai Chen and Jing Lu, "A diffusion filtered-x affine projection algorithm for distributed active noise control," Inter-noise 2023, 2023-3-3-8, 2023.
 
 (3) Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett, "An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System," The Journal of the Acoustic Society of America, 2023.
+
+Can you give me a Star (on the top of the page) if that our works are useful for your researches? ('◡')
