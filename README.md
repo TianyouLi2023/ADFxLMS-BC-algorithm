@@ -1,11 +1,7 @@
 # ADFxLMS-BC-algorithm
 This website is supplementary material for the article "Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett; An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System; J. Acoust. Soc. Am., 2023". This website provides the MATLAB source codes for all simulations. 
 
-(c) 2023 by Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett
-
-The authors' email addresses are: 
-Tianyou Li: tianyou.li@smail.nju.edu.cn; Li Rao: li.rao@smail.nju.edu.cn; Sipei Zhao: sipei.zhao@uts.edu.au
-Jing Lu: lujing@nju.edu.cn; Ian S. Burnett: ian.burnett2@rmit.edu.au
+(c) 2023 by Tianyou Li (tianyou.li@smail.nju.edu.cn), Li Rao (li.rao@smail.nju.edu.cn), Sipei Zhao (sipei.zhao@uts.edu.au), Jing Lu (lujing@nju.edu.cn) and Ian S. Burnett (Ian S. Burnett: ian.burnett2@rmit.edu.au)
 
 %------------------------------------------------------------------------------------------------%
 
