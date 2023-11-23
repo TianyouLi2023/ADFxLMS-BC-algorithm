@@ -1,11 +1,12 @@
 # ADFxLMS-BC-algorithm
-This website is supplementary material for the article "Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett; An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System; J. Acoust. Soc. Am. (Under Review), 2023.10". This website provides the MATLAB source codes for all simulations. 
+This website is supplementary material for the article "Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett; An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System; J. Acoust. Soc. Am., 2023". This website provides the MATLAB source codes for all simulations. 
 
 (c) 2023 by Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett
 
 The authors' email addresses are: 
 Tianyou Li: tianyou.li@smail.nju.edu.cn; Li Rao: li.rao@smail.nju.edu.cn; Sipei Zhao: sipei.zhao@uts.edu.au
 Jing Lu: lujing@nju.edu.cn; Ian S. Burnett: ian.burnett2@rmit.edu.au
+
 %------------------------------------------------------------------------------------------------%
 
 The folder "Figs_5_6" provides the MATLAB source codes of the Figures 5 and 6, which corresponds to the free-field simulation of the above article.
@@ -38,4 +39,4 @@ P.s. Our works on "Distributed Active Noise Control System Based on the Augmente
 
 (2) Tianyou Li, Sipei Zhao, Kai Chen and Jing Lu, "A diffusion filtered-x affine projection algorithm for distributed active noise control," Inter-noise 2023, 2023-3-3-8, 2023.
 
-(3) Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett, "An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System," The Journal of the Acoustic Society of America (Under Review), 2023.
+(3) Tianyou Li, Li Rao, Sipei Zhao, Jing Lu and Ian S. Burnett, "An Improved Augmented Diffusion Algorithm with Bidirectional Communication for a Distributed Active Noise Control System," The Journal of the Acoustic Society of America, 2023.
